@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josuerosa-enterprise.github.io/brado-site/sitemap.xml
