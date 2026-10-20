@@ -5,8 +5,9 @@ Rebranding autorizado do site Brado. Hospedagem existente: GitHub Pages, branch 
 - index.html: soluções, sistemas, método e contato.
 - app.js: menu acessível, privacidade e composição de mensagem para WhatsApp. Nenhum envio automático ou banco de dados.
 - contatos/: cartão de contatos no caminho original do QR code.
-- gnsoft-logo.svg: logo aplicada no cabeçalho; gnsoft-logo.svg: criação original e imagem social.
-- favicon.svg: monograma tipográfico GN em tamanho reduzido.
+- gnsoft-logo.svg: marca vetorial GNSOFT para fundos escuros.
+- gnsoft-architecture.webp: arte abstrata otimizada do hero; identidade em azul-marinho e azul.
+- favicon.svg: símbolo geométrico G em tamanho reduzido.
 
 Contato mantido: 5594991614641. Não foram criados e-mails, redes sociais, endereço físico, alegações de clientes ou números comerciais. Razão social e CNPJ omitidos até confirmação da alteração cadastral. Produtos apresentados sem afirmar auditoria, homologação fiscal ou garantias de disponibilidade.
 
