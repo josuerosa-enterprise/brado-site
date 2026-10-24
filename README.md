@@ -1,14 +1,24 @@
 # GNSOFT — site institucional
 
-Rebranding autorizado do site Brado. Hospedagem existente: GitHub Pages, branch main, raiz. Domínio mantido: https://bradocarnes.com.br até definição de novo domínio pelo proprietário. Não alterar DNS nem e-mail nesta migração.
+Site institucional público: https://gnsoft.com.br/  
+Hospedagem: GitHub Pages, branch `main`, raiz deste repositório. O arquivo `CNAME` determina o domínio. Não alterar DNS nem e-mail sem solicitação.
 
-- index.html: soluções, sistemas, método e contato.
-- app.js: menu acessível, privacidade e composição de mensagem para e-mail (mailto). Nenhum envio automático ou banco de dados.
-- contatos/: cartão de contatos no caminho original do QR code.
-- gnsoft-logo.svg: marca vetorial GNSOFT para fundos escuros.
-- gnsoft-architecture.webp: arte abstrata otimizada do hero; identidade em azul-marinho e azul.
-- favicon.svg: símbolo geométrico G em tamanho reduzido.
+## Estrutura
+- `index.html`: apresentação institucional, soluções, portfólio, método e contato.
+- `styles.css`: identidade GNSOFT em azul-marinho e azul; cards consistentes e layout responsivo.
+- `app.js`: navegação, diálogo de privacidade e formulário comercial via `mailto:`.
+- `contatos/`: cartão de contatos mantido no caminho do QR Code.
+- `gnsoft-logo-approved.svg`, `gnsoft-icon-approved.svg`: logomarca institucional.
+- `gnsoft-architecture.webp`: arte de abertura.
+- `prosanina-logo.png`: marca oficial da ProsaNina; aplicada em painel discreto, sem mudar a paleta predominante da GNSOFT.
 
-Contato exclusivo definido pelo proprietário: contato@gnsoft.com.br. Telefone e links de mensageria removidos. A caixa postal é administrada separadamente; o site apenas abre o aplicativo de e-mail do visitante. Não foram criados redes sociais, endereço físico, alegações de clientes ou números comerciais. Razão social e CNPJ omitidos até confirmação da alteração cadastral. Produtos apresentados sem afirmar auditoria, homologação fiscal ou garantias de disponibilidade.
+## Soluções apresentadas
+- **NorteOS**: gestão operacional de saúde.
+- **ECOGN**: gestão de projetos ambientais.
+- **Brado Gestão**: ERP multissegmento para comércio e prestação de serviços, com vendas, PDV, orçamentos, estoque, compras, ordens de serviço, entregas, financeiro e relatórios. O antigo posicionamento exclusivo para açougues/boutiques de carnes não é mais vigente.
+- **ProsaNina**: atendimento inteligente com IA e integração do WhatsApp via QR Code; CRM, agenda e acompanhamento de solicitações. O visual segue a paleta da GNSOFT com a marca ProsaNina preservada.
 
-Ao migrar domínio, atualizar CNAME, canônicos, OG, sitemap e robots e validar DNS/TLS. Histórico anterior preservado no Git.
+Informações de módulos provêm da versão atual de cada produto. Não apresentar integrações fiscais como homologadas externamente sem validação específica. Não prometer compatibilidade universal ou disponibilidade ininterrupta.
+
+## Contato e privacidade
+Contato público: contato@gnsoft.com.br. O formulário prepara um e-mail no aplicativo do visitante, não salva contatos em banco de dados do site. Nenhuma linha telefônica ou canal de mensagens é acrescentado sem confirmação do proprietário. Não modificar a configuração do domínio, as políticas ou os demais produtos ao atualizar o portfólio.
